@@ -1,8 +1,9 @@
 # Minimax-AB_DepthLimitEval_BigTicTacToe
-Minimax algorithm with Alpha-Beta pruning and a depth-limited evaluation function.
+Minimax algorithm (with plans** to add Alpha-Beta pruning) and a depth-limited evaluation function.
+Algorithm demo plays Tic Tac Toe on normal-size or 4x4 and larger boards. 
 
-AI updated on 9 Feb 2020, changed from a random play bot to an optimal Minimax AI.
-Tic Tac Toe game also updated to play on 4x4 or larger boards. 
+**I recently used this algorithm in C++ for a proprietary codebase and noted that A-B pruning was missing here.
+I'll add it when there's time.
 
 @game author: Piotr Szczurek, with AI functions implemented by Stephen Montague
 
